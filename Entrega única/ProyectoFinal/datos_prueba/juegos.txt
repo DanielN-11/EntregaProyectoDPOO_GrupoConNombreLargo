@@ -1,0 +1,6 @@
+J1|Uno|2020|Mattel|2|10|0|Cartas|false
+J2|Parqués|1970|Celupal|2|4|0|Tablero|false
+J3|Twister|1966|Hasbro|2|6|0|Accion|false
+J4|Catan|1995|Catan Studio|3|4|0|Tablero|true
+J5|Ajedrez|1500|Clásico|2|2|0|Tablero|true
+J6|Domino Jr|2010|Hasbro|2|4|5|Tablero|false

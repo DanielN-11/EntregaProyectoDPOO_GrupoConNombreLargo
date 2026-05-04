@@ -1,0 +1,5 @@
+BEBIDA|A1|Café Americano|5000.0|false|true
+BEBIDA|A2|Jugo Natural|6000.0|false|false
+BEBIDA|A3|Cerveza Artesanal|10000.0|true|false
+PASTELERIA|A4|Brownie|8000.0|gluten,maní
+PASTELERIA|A5|Macarrón|7000.0|

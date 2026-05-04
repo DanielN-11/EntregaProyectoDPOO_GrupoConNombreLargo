@@ -1,0 +1,7 @@
+C1|J1|Desaparecido|false
+C2|J2|Nuevo|true
+C3|J3|Bueno|true
+C4|J4|Nuevo|true
+C5|J5|Bueno|true
+C6|J6|Nuevo|false
+C10|J1|Nuevo|true

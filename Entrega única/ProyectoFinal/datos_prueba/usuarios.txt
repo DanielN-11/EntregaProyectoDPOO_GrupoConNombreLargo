@@ -1,0 +1,6 @@
+CLIENTE|U1|maria|1234|María García|CL1|770.5250000000001|J4
+CLIENTE|U2|pedro|5678|Pedro Martínez|CL2|259.6|
+MESERO|U3|ana|pass|Ana López|EMP-DESC-001|true|428.40000000000003||J4,J5
+MESERO|U4|luis|pass|Luis Rodríguez|EMP-DESC-002|true|0.0||
+COCINERO|U5|chef|pass|Carlos Gómez|EMP-DESC-003|true|0.0|
+ADMIN|U6|admin|admin123|Admin Principal|
